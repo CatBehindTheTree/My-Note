@@ -166,7 +166,7 @@ git的工作流程一般是这样的：
 
 日常使用只要记住下图6个命令：
 
-![image-20210207233832089](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20210207233832089.png)
+![image-20210207233832089](https://gitee.com/catbehindthetree/my-note/blob/master/images/image-20210207233258349.png)
 
 **本地仓库搭建**
 
